@@ -4,3 +4,6 @@ O trabalho a seguir foi realizado em grupo na disciplina de Engenharia de Softwa
 ## O que instalar
 - React
 - npm install react-router-dom
+
+## Para rodar
+- npm start
