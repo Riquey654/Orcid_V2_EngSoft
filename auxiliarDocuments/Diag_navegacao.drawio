@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.2">
+  <diagram name="Página-1" id="Xo6ZbHVPWzy5bsOevBRd">
+    <mxGraphModel dx="3360" dy="1403" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="606" y="434" width="283" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="457" width="264" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fxdx0S6dnx4s-IBR2-1A-4" target="Fxdx0S6dnx4s-IBR2-1A-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fxdx0S6dnx4s-IBR2-1A-4" target="Fxdx0S6dnx4s-IBR2-1A-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="17" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fxdx0S6dnx4s-IBR2-1A-5" target="Fxdx0S6dnx4s-IBR2-1A-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="21" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-6" value="Home Page" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="101" y="42" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fxdx0S6dnx4s-IBR2-1A-7" target="Fxdx0S6dnx4s-IBR2-1A-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-7" value="Página de pesquisa" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="339" y="46" width="143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-46" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fxdx0S6dnx4s-IBR2-1A-8" target="Fxdx0S6dnx4s-IBR2-1A-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="183" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-9" value="Página de perfil própria" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="208" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-10" value="RF1 O sistema deve permitir a importação e exportação de referências em múltiplos formatos, incluindo BibTeX, para facilitar o uso em diferentes plataformas, como relatórios e artigos científicos" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="251" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-12" value="funcionalidade de pesquisa avançada para encontrar pesquisadores, incluindo filtros&lt;br&gt;por nome, nacionalidade, unidade de ensino e título do trabalho;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="263.5" y="-53" width="313" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-13" value="O sistema deve incluir métricas como o número de citações e trabalhos mais recentes, similar ao Google Scholar." style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="799" y="-43" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fxdx0S6dnx4s-IBR2-1A-15" target="Fxdx0S6dnx4s-IBR2-1A-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="856" y="27" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-16" value="Página de perfil público" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="880" y="52" width="116" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-17" value="RF 13: O sistema deve permitir que o usuário escolha quais informações serão exibidas publicamente, garantindo a privacidade na visualização de atividades como peer review." style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="316" y="183" width="441" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-19" value="RF12: O sistema deve permitir a customização da aparência do perfil para refletir as preferências do pesquisador" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="297" y="251" width="295" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-23" value="Responsividade" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-144" y="72" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="208" width="63" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-28" value="Botão Editar" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="16.5" y="223" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-30" value="RNF3: o sistema deve ser compatível com os principais navegadores e dispositivos." style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-518" y="71" width="333" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-33" value="Footer" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="266" y="508" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-34" value="Header" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="626" y="493" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-35" value="TODAS as páginas" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="696" y="445" width="154" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-36" value="TODAS as páginas" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="338" y="466" width="173" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-37" value="&lt;div&gt;- Início&lt;/div&gt;&lt;div&gt;- Página de pesquisa&lt;/div&gt;&lt;div&gt;- Página de perfil própria&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="683" y="474" width="184" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-38" value="- Logo do ORCIDv2 grande(?) " style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="335" y="508" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="955.5" y="223" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-43" value="Página de geração/importação de Bibtex" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="948" y="246" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fxdx0S6dnx4s-IBR2-1A-7" target="Fxdx0S6dnx4s-IBR2-1A-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fxdx0S6dnx4s-IBR2-1A-49" value="Geral" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-493" y="21" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
